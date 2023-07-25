@@ -19,4 +19,3 @@ pipeline {
         }
     }
 }
-This Pipelin
